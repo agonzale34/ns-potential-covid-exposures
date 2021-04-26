@@ -14,6 +14,6 @@ class TasksScheduler:
     @gen.coroutine
     def start_tasks_scheduler(cls):
         schedule.every().hour.do(ExposuresProcessor.process_ns_health_data)
-        schedule.run_all()
         cls.callback.start()
         logging.info("Tasks Scheduler started")
+        schedule.run_all()

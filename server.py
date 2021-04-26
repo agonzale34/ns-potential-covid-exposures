@@ -17,9 +17,9 @@ def make_app():
 
 
 if __name__ == "__main__":
-    scheduler = TasksScheduler()
-    scheduler.start_tasks_scheduler()
     app = make_app()
     app.listen(9001)
     logging.info("{} up and running!".format(APP_TITLE))
+    scheduler = TasksScheduler()
+    scheduler.start_tasks_scheduler()
     tornado.ioloop.IOLoop.current().start()

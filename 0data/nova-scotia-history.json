@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-04-26 01:08",
+  "last_updated": "2021-04-26 14:03",
   "exposures": [
     {
       "kind": "Place",
@@ -2354,6 +2354,18 @@
       "advice": "Continue self-isolating",
       "zone": "",
       "last_updated": "2021-04-19 09:27"
+    },
+    {
+      "kind": "Place",
+      "name": "ProEdge Sports Conditioning Limited",
+      "address": "36 Duke St, Bedford",
+      "g_maps_address": "36 Duke St, Bedford, NS B4A 2Z5 ",
+      "date_begin": "2021-04-23 05:30",
+      "date_end": "2021-04-23 07:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-eight-locations-central-zone-three-locations-northern-zone",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-26 08:56"
     }
   ]
 }

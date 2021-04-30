@@ -1,4 +1,5 @@
 import logging
+import os
 from typing import Optional
 
 import pylev
@@ -36,25 +37,29 @@ class ExposuresProcessor:
         logging.info("Running NS health processor")
         exposures_data = load_exposure_data(EXPOSURES_FILEPATH)
         browser = cls.load_browser(NS_HEALTH_URL, NS_HEALTH_READY)
-        maps_browser = cls.load_browser(G_MAPS_URL, G_MAPS_READY)
 
         has_next = cls.get_next_button(browser)
 
         while has_next is not None:
             logging.info("Processing new NS page")
-            cls.process_current_page(exposures_data, browser, maps_browser)
+            cls.process_current_page(exposures_data, browser)
             cls.click(browser, has_next.find_element_by_tag_name("a"))
             cls.wait_element_contains_text(browser, NS_HEALTH_READY)
             has_next = cls.get_next_button(browser)
+            save_exposure_data(EXPOSURES_FILEPATH, exposures_data)
 
         # process last page
-        cls.process_current_page(exposures_data, browser, maps_browser)
+        cls.process_current_page(exposures_data, browser)
 
         exposures_data.last_updated = current_datetime_string()
         save_exposure_data(EXPOSURES_FILEPATH, exposures_data)
         browser.quit()
-        maps_browser.quit()
 
+        # commit the change if the file has changes
+        os.system("git add {}".format(EXPOSURES_FILEPATH))
+        os.system('git commit -m "Updating the exposure file"')
+        os.system("git push")
+        logging.info("Records processed successfully!")
 
     @classmethod
     def get_next_button(cls, browser: WebDriver) -> Optional[WebElement]:
@@ -64,7 +69,8 @@ class ExposuresProcessor:
             return None
 
     @classmethod
-    def process_current_page(cls, exposures_data: ExposureData, browser: WebDriver, maps_browser: WebDriver):
+    def process_current_page(cls, exposures_data: ExposureData, browser: WebDriver):
+        maps_browser = cls.load_browser(G_MAPS_URL, G_MAPS_READY)
         exposures_table = browser.find_element_by_class_name("view-content").find_element_by_tag_name("tbody")
         exposures_rows = exposures_table.find_elements_by_tag_name("tr")
         for exposure_row in exposures_rows:
@@ -98,13 +104,16 @@ class ExposuresProcessor:
                 else:
                     ex_kind = KIND_PLACE
                     # trying to get the google maps exact address for exposures PLACE kind
-                    ex_g_address = cls.find_g_address(maps_browser, ex_place, ex_address)
+                    if ex_address != "":
+                        ex_g_address = cls.find_g_address(maps_browser, ex_place, ex_address)
 
                 new_exposure = ExposureLocation(
                     ex_kind, ex_place, ex_address, ex_g_address, ex_begin, ex_end,
                     ex_details, ex_advice, ex_zone, ex_last_updated
                 )
                 exposures_data.exposures.append(new_exposure)
+
+        maps_browser.quit()
 
     @classmethod
     def find_g_address(cls, maps_browser: WebDriver, place, address) -> str:

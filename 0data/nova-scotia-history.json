@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-04-29 22:00",
+  "last_updated": "2021-04-29 22:19",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -874,10 +874,10 @@
       "g_maps_address": "",
       "date_begin": "2021-04-21 11:15",
       "date_end": "2021-04-21 13:00",
-      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
+      "details": "http://%3Cp%3E%3Ca%20href%3D%22https//www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0%22%3Edetails%3C/a%3E%3C/p%3E",
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-04-28 19:55"
+      "last_updated": "2021-04-28 19:58"
     },
     {
       "kind": "Halifax Transit",
@@ -2195,9 +2195,9 @@
       "date_begin": "2021-04-17 13:00",
       "date_end": "2021-04-17 15:00",
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-central-northern-and-eastern-zones",
-      "advice": "Self-isolate while awaiting results",
+      "advice": "Self-isolate if you have symptoms",
       "zone": "Central",
-      "last_updated": "2021-04-24 22:00"
+      "last_updated": "2021-04-29 22:02"
     },
     {
       "kind": "Place",
@@ -3218,6 +3218,186 @@
       "advice": "Self-isolate if you have symptoms",
       "zone": "Eastern",
       "last_updated": "2021-04-29 21:58"
+    },
+    {
+      "kind": "Place",
+      "name": "Tim Hortons Port Hawkesbury",
+      "address": "603 Reeves St, Port Hawkesbury",
+      "g_maps_address": "603 Reeves St, Port Hawkesbury, NS B9A 2R8 ",
+      "date_begin": "2021-04-29 14:30",
+      "date_end": "2021-04-29 16:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Eastern",
+      "last_updated": "2021-04-29 22:08"
+    },
+    {
+      "kind": "Place",
+      "name": "Venus Envy",
+      "address": "1598 Barrington St, Halifax",
+      "g_maps_address": "1598 Barrington St, Halifax, NS B3J 1Z6 ",
+      "date_begin": "2021-04-29 12:30",
+      "date_end": "2021-04-29 14:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:07"
+    },
+    {
+      "kind": "Place",
+      "name": "Costco",
+      "address": "230 Chain Lake Dr, Halifax",
+      "g_maps_address": "230 Chain Lake Dr, Halifax, NS B3S 1C5 ",
+      "date_begin": "2021-04-27 19:30",
+      "date_end": "2021-04-27 22:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:04"
+    },
+    {
+      "kind": "Place",
+      "name": "Kitchen 1409",
+      "address": "1409 Trans-Canada Hwy, Bras D'or",
+      "g_maps_address": "1409 Trans-Canada Hwy, Bras D'or, NS B1Y 2N5 ",
+      "date_begin": "2021-04-23 16:00",
+      "date_end": "2021-04-23 18:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Eastern",
+      "last_updated": "2021-04-29 22:03"
+    },
+    {
+      "kind": "Place",
+      "name": "YMCA Port Hawkesbury",
+      "address": "606 Reeves St, Port Hawkesbury",
+      "g_maps_address": "1409 Trans-Canada Hwy, Bras D'or, NS B1Y 2N5 ",
+      "date_begin": "2021-04-23 15:30",
+      "date_end": "2021-04-23 18:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Eastern",
+      "last_updated": "2021-04-29 22:07"
+    },
+    {
+      "kind": "Place",
+      "name": "Dairy Queen Port Hawkesbury",
+      "address": "317 Reeves St, Port Hawkesbury",
+      "g_maps_address": "317 Reeves St, Port Hawkesbury, NS B9A 2R6 ",
+      "date_begin": "2021-04-23 11:30",
+      "date_end": "2021-04-23 13:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Eastern",
+      "last_updated": "2021-04-29 22:09"
+    },
+    {
+      "kind": "Place",
+      "name": "Irving Big Stop Enfield (Restaurant Only)",
+      "address": "6757 Hwy 2, Enfield",
+      "g_maps_address": "6757 Hwy 2, Enfield, NS B2T 1C8 ",
+      "date_begin": "2021-04-22 18:00",
+      "date_end": "2021-04-22 19:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Northern",
+      "last_updated": "2021-04-29 22:10"
+    },
+    {
+      "kind": "Place",
+      "name": "YMCA Port Hawkesbury",
+      "address": "606 Reeves St, Port Hawkesbury",
+      "g_maps_address": "606 Reeves St, Port Hawkesbury, NS B9A 2R7 ",
+      "date_begin": "2021-04-22 15:30",
+      "date_end": "2021-04-22 18:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Eastern",
+      "last_updated": "2021-04-29 22:06"
+    },
+    {
+      "kind": "Flight",
+      "name": "Air Canada flight 624 travelling from Toronto to Halifax",
+      "address": "Rows 21-27, seats C, D, E, and F",
+      "g_maps_address": "",
+      "date_begin": "2021-04-21 21:15",
+      "date_end": "2021-04-22 00:15",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Get tested immediately",
+      "zone": "",
+      "last_updated": "2021-04-29 22:13"
+    },
+    {
+      "kind": "Place",
+      "name": "Canadian Tire Truro",
+      "address": "90 Robie St, Truro",
+      "g_maps_address": "Fundy Trail Mall, 90 Robie St, Truro, NS B2N 1L1 ",
+      "date_begin": "2021-04-21 17:30",
+      "date_end": "2021-04-21 20:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Northern",
+      "last_updated": "2021-04-29 21:59"
+    },
+    {
+      "kind": "Place",
+      "name": "Sma’knis Trading Shop",
+      "address": "211 Abenaki Rd, Truro",
+      "g_maps_address": "211 Abenaki Rd, Truro, NS B2N 6Y7 ",
+      "date_begin": "2021-04-20 19:00",
+      "date_end": "2021-04-20 20:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Northern",
+      "last_updated": "2021-04-29 22:00"
+    },
+    {
+      "kind": "Place",
+      "name": "Lakeside Community Centre",
+      "address": "1492 Saint Margarets Bay Rd, Lakeside",
+      "g_maps_address": "1492 St Margarets Bay Rd, Lakeside, NS B3T 1A9 ",
+      "date_begin": "2021-04-20 08:30",
+      "date_end": "2021-04-20 10:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:11"
+    },
+    {
+      "kind": "Place",
+      "name": "Starbucks Truro",
+      "address": "63 Robie St, Truro",
+      "g_maps_address": "63 Robie St, Truro, NS B2N 1L2 ",
+      "date_begin": "2021-04-20 08:00",
+      "date_end": "2021-04-20 11:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Northern",
+      "last_updated": "2021-04-29 22:03"
+    },
+    {
+      "kind": "Flight",
+      "name": "Air Canada 613 from Halifax to Toronto",
+      "address": "rows 11-17, seats C, D, E and F",
+      "g_maps_address": "",
+      "date_begin": "2021-04-27 15:45",
+      "date_end": "2021-04-27 17:15",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Get tested immediately",
+      "zone": "",
+      "last_updated": "2021-04-29 22:16"
+    },
+    {
+      "kind": "Flight",
+      "name": "Air Canada flight 8780 from Montreal to Halifax",
+      "address": "rows 12-18, seats A, C and D",
+      "g_maps_address": "",
+      "date_begin": "2021-04-26 08:00",
+      "date_end": "2021-04-26 10:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Get tested immediately",
+      "zone": "",
+      "last_updated": "2021-04-29 22:14"
     }
   ]
 }

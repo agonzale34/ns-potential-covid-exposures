@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-04-29 22:19",
+  "last_updated": "2021-04-29 22:36",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -874,10 +874,10 @@
       "g_maps_address": "",
       "date_begin": "2021-04-21 11:15",
       "date_end": "2021-04-21 13:00",
-      "details": "http://%3Cp%3E%3Ca%20href%3D%22https//www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0%22%3Edetails%3C/a%3E%3C/p%3E",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-04-28 19:58"
+      "last_updated": "2021-04-28 19:55"
     },
     {
       "kind": "Halifax Transit",
@@ -3359,9 +3359,9 @@
       "date_begin": "2021-04-20 08:30",
       "date_end": "2021-04-20 10:30",
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
-      "advice": "Get tested immediately",
+      "advice": "Self-isolate for 14 days",
       "zone": "Central",
-      "last_updated": "2021-04-29 22:11"
+      "last_updated": "2021-04-29 22:22"
     },
     {
       "kind": "Place",
@@ -3398,6 +3398,30 @@
       "advice": "Get tested immediately",
       "zone": "",
       "last_updated": "2021-04-29 22:14"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 138",
+      "address": "Dunbrack St. to Barrington St.",
+      "g_maps_address": "",
+      "date_begin": "2021-04-27 07:30",
+      "date_end": "2021-04-27 09:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:30"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 138",
+      "address": "Dunbrack St. to Barrington St.",
+      "g_maps_address": "",
+      "date_begin": "2021-04-26 07:30",
+      "date_end": "2021-04-26 09:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:25"
     }
   ]
 }

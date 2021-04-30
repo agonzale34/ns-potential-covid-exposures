@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-04-29 22:36",
+  "last_updated": "2021-04-30 04:40",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -529,7 +529,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-04-28 19:55"
+      "last_updated": "2021-04-28 19:53"
     },
     {
       "kind": "Halifax Transit",
@@ -1225,7 +1225,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-04-28 19:58"
+      "last_updated": "2021-04-28 19:54"
     },
     {
       "kind": "Halifax Transit",
@@ -3422,6 +3422,90 @@
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
       "last_updated": "2021-04-29 22:25"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit 138",
+      "address": "Barrington St. to Dunbrack St.",
+      "g_maps_address": "",
+      "date_begin": "2021-04-26 15:30",
+      "date_end": "2021-04-26 17:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:33"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 28",
+      "address": "Barrington St. to Mumford Rod",
+      "g_maps_address": "",
+      "date_begin": "2021-04-23 15:30",
+      "date_end": "2021-04-23 16:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:43"
+    },
+    {
+      "kind": "Place",
+      "name": "Tim Hortons Port Hawkesbury",
+      "address": "603 Reeves St, Port Hawkesbury",
+      "g_maps_address": "603 Reeves St, Port Hawkesbury, NS B9A 2R8 ",
+      "date_begin": "2021-04-23 14:30",
+      "date_end": "2021-04-23 16:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Eastern",
+      "last_updated": "2021-04-29 23:29"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 29",
+      "address": "Mumford Rd. to Barrington St.",
+      "g_maps_address": "",
+      "date_begin": "2021-04-23 14:30",
+      "date_end": "2021-04-23 16:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:41"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 28",
+      "address": "Barrington St. to Mumford Rd.",
+      "g_maps_address": "",
+      "date_begin": "2021-04-22 16:30",
+      "date_end": "2021-04-22 18:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:38"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 29",
+      "address": "Mumford Rd to Barrington St.",
+      "g_maps_address": "",
+      "date_begin": "2021-04-22 16:00",
+      "date_end": "2021-04-22 17:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 22:36"
+    },
+    {
+      "kind": "Place",
+      "name": "Venus Envy",
+      "address": "1598 Barrington St, Halifax",
+      "g_maps_address": "",
+      "date_begin": "2021-04-18 12:30",
+      "date_end": "2021-04-18 14:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-04-29 23:30"
     }
   ]
 }

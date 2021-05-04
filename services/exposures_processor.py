@@ -4,7 +4,7 @@ from typing import Optional
 
 import pylev
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.by import By
@@ -97,7 +97,8 @@ class ExposuresProcessor:
 
             else:
                 ex_g_address = ""
-                if KIND_FLIGHT.lower() in ex_place.lower() or "air canada" in ex_place.lower():
+                t_place = ex_place.lower()
+                if KIND_FLIGHT.lower() in t_place or "air canada" in t_place or "west jet" in t_place:
                     ex_kind = KIND_FLIGHT
                 elif KIND_TRANSIT.lower() in ex_place.lower():
                     ex_kind = KIND_TRANSIT
@@ -155,7 +156,7 @@ class ExposuresProcessor:
                         .get_attribute("aria-label").split(": ")[1]
                 else:
                     g_address = ""
-            except NoSuchElementException:
+            except (NoSuchElementException, TimeoutException):
                 g_address = ""
         clear_button = maps_browser.find_element_by_xpath("//a[@guidedhelpid='clear_search']")
         cls.click(maps_browser, clear_button)

@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-05-04 20:17",
+  "last_updated": "2021-05-05 02:21",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -505,7 +505,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-04-28 19:59"
+      "last_updated": "2021-04-28 20:02"
     },
     {
       "kind": "Halifax Transit",
@@ -3373,7 +3373,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-three-air-canada-flights",
       "advice": "Self-isolate if you have symptoms",
       "zone": "Northern",
-      "last_updated": "2021-04-29 22:01"
+      "last_updated": "2021-04-29 22:03"
     },
     {
       "kind": "Flight",
@@ -4538,6 +4538,18 @@
       "advice": "Self-isolate for 14 days",
       "zone": "Central",
       "last_updated": "2021-04-30 21:48"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 61 (Auburn/North Preston) - Alderney Terminal to Portland Hills Terminal",
+      "address": "Passengers in all seats",
+      "g_maps_address": "",
+      "date_begin": "2021-04-24 12:30",
+      "date_end": "2021-04-24 14:00",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-one-air-canada-flight-and-one",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-04 21:37"
     }
   ]
 }

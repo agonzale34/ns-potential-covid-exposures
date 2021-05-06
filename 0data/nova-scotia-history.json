@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-05-06 02:35",
+  "last_updated": "2021-05-06 08:38",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -505,7 +505,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-04-28 20:02"
+      "last_updated": "2021-04-28 19:59"
     },
     {
       "kind": "Halifax Transit",
@@ -529,7 +529,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-04-28 19:53"
+      "last_updated": "2021-04-28 19:55"
     },
     {
       "kind": "Halifax Transit",
@@ -1225,7 +1225,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-04-28 19:58"
+      "last_updated": "2021-04-28 19:55"
     },
     {
       "kind": "Halifax Transit",
@@ -4658,6 +4658,18 @@
       "advice": "Self-isolate while awaiting results",
       "zone": "Western",
       "last_updated": "2021-05-05 21:48"
+    },
+    {
+      "kind": "Place",
+      "name": "**Correction to posted date** Canning District Lions Club - Bingo",
+      "address": "1000 Seminary Ave., Canning",
+      "g_maps_address": "1000 Seminary Ave, Canning, NS B0P 1H0 ",
+      "date_begin": "2021-04-24 17:00",
+      "date_end": "2021-04-24 23:00",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-three-locations-central-zone-two-locations-western-zone-two-air",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Western",
+      "last_updated": "2021-05-06 07:03"
     }
   ]
 }

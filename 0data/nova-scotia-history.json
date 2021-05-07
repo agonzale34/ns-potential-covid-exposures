@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-05-06 20:42",
+  "last_updated": "2021-05-07 02:45",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -4670,6 +4670,162 @@
       "advice": "Self-isolate while awaiting results",
       "zone": "Western",
       "last_updated": "2021-05-06 07:03"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 1 (Spring Garden) - Bridge Terminal to Corner of Allan St./Oxford St.",
+      "address": "Passengers in all seats",
+      "g_maps_address": "",
+      "date_begin": "2021-05-04 12:00",
+      "date_end": "2021-05-04 13:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-06 21:42"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 3 (Crosstown) - North St./Oxford St. to Wyse Rd.",
+      "address": "Passengers in all seats",
+      "g_maps_address": "",
+      "date_begin": "2021-05-04 10:30",
+      "date_end": "2021-05-04 12:00",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-06 21:46"
+    },
+    {
+      "kind": "Place",
+      "name": "Maritime Bus - Halifax Airport (see details) to Circle K George St., Sydney",
+      "address": "Passengers in all seats",
+      "g_maps_address": "inside Circle K, 565 George St, Sydney, NS B1P 1K5 ",
+      "date_begin": "2021-05-02 15:45",
+      "date_end": "2021-05-02 21:15",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "",
+      "last_updated": "2021-05-06 21:35"
+    },
+    {
+      "kind": "Flight",
+      "name": "West Jet 3346 - Toronto to Halifax",
+      "address": "Passengers in rows 13-19, seats C, D and F",
+      "g_maps_address": "",
+      "date_begin": "2021-05-02 09:00",
+      "date_end": "2021-05-02 12:15",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate for 14 days",
+      "zone": "",
+      "last_updated": "2021-05-06 22:02"
+    },
+    {
+      "kind": "Flight",
+      "name": "Air Canada 7560 - Montreal to Halifax",
+      "address": "Passengers in rows 5-11, seats C, D and F",
+      "g_maps_address": "",
+      "date_begin": "2021-05-01 19:15",
+      "date_end": "2021-05-01 21:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate for 14 days",
+      "zone": "",
+      "last_updated": "2021-05-06 21:58"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 90 (Larry Uteck) - Flamingo Dr./Bedford Hwy. to Robie St/Quinpool Rd.",
+      "address": "Passengers in all seats",
+      "g_maps_address": "",
+      "date_begin": "2021-05-01 14:00",
+      "date_end": "2021-05-01 15:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-06 21:47"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 90 (Larry Uteck) - Corner Robie St./Quinpool Rd.to Corner Flamingo Dr./Bedford Hwy.",
+      "address": "Passengers in all seats",
+      "g_maps_address": "",
+      "date_begin": "2021-05-01 05:30",
+      "date_end": "2021-05-01 07:00",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-06 21:42"
+    },
+    {
+      "kind": "Flight",
+      "name": "West Jet 232 - Calgary to Halifax",
+      "address": "Passengers in rows 7-13, seats A, B, C, and D",
+      "g_maps_address": "",
+      "date_begin": "2021-04-30 09:30",
+      "date_end": "2021-04-30 17:15",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate for 14 days",
+      "zone": "",
+      "last_updated": "2021-05-06 22:00"
+    },
+    {
+      "kind": "Place",
+      "name": "**Correction to date and time* Lacewood Eyes on Optometry - front foyer area",
+      "address": "362 Lacewood Drive, Halifax",
+      "g_maps_address": "362 Lacewood Dr, Halifax, NS B3S 1M7 ",
+      "date_begin": "2021-04-30 08:30",
+      "date_end": "2021-04-30 15:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-06 21:25"
+    },
+    {
+      "kind": "Flight",
+      "name": "Air Canada 8780 - Montreal to Halifax",
+      "address": "Passengers in rows 18-24, seats A, C and D",
+      "g_maps_address": "",
+      "date_begin": "2021-04-30 08:00",
+      "date_end": "2021-04-30 10:15",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate for 14 days",
+      "zone": "",
+      "last_updated": "2021-05-06 22:03"
+    },
+    {
+      "kind": "Place",
+      "name": "**Correction to date and time* Mumford Eyes on Optometry - front foyer area",
+      "address": "6960 Mumford Rd., Halifax",
+      "g_maps_address": "6960 Mumford Rd, Halifax, NS B3L 4P1 ",
+      "date_begin": "2021-04-29 08:30",
+      "date_end": "2021-04-29 18:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-06 21:24"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 4 (Universities) - Lacewood Terminal to Windsor St./Hood St.",
+      "address": "Passengers in all seats",
+      "g_maps_address": "",
+      "date_begin": "2021-04-27 14:45",
+      "date_end": "2021-04-27 16:45",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate for 14 days",
+      "zone": "Central",
+      "last_updated": "2021-05-06 22:04"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route 4 (Universities) - Lacewood Terminal to Windsor St./Hood St.",
+      "address": "Passengers in all seats",
+      "g_maps_address": "",
+      "date_begin": "2021-04-26 14:45",
+      "date_end": "2021-04-26 16:45",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-maritime-bus-six-halifax-transit-routes-two-air-canada-flights-and",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-06 21:52"
     }
   ]
 }

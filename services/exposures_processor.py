@@ -79,8 +79,19 @@ class ExposuresProcessor:
             ex_place = ex_row_data[0].text
             ex_windows = ex_row_data[1].text
             [ex_begin, ex_end] = exposure_window_to_date_interval(ex_windows)
-            ex_address = ex_row_data[2].text
-            ex_details = ex_row_data[3].find_element_by_tag_name("a").get_attribute("href")
+
+            # sometimes the details link is in the address column
+            if ex_row_data[2].text == "details":
+                ex_address = ""
+                details_row = ex_row_data[2]
+            else:
+                details_row = ex_row_data[3]
+                ex_address = ex_row_data[2].text
+            try:
+                ex_details = details_row.find_element_by_tag_name("a").get_attribute("href")
+            except NoSuchElementException:
+                ex_details = details_row.text
+
             ex_advice = ex_row_data[4].text
             ex_zone = ex_row_data[5].text
             ex_last_updated = normalize_datetime(ex_row_data[6].text)
@@ -98,9 +109,10 @@ class ExposuresProcessor:
             else:
                 ex_g_address = ""
                 t_place = ex_place.lower()
-                if KIND_FLIGHT.lower() in t_place or "air canada" in t_place or "west jet" in t_place:
+                if KIND_FLIGHT.lower() in t_place or "air canada" in t_place or "west jet" in t_place \
+                        or "aircanada" in t_place or "westjet" in t_place:
                     ex_kind = KIND_FLIGHT
-                elif KIND_TRANSIT.lower() in ex_place.lower():
+                elif KIND_TRANSIT.lower() in t_place or "Route" in ex_place:
                     ex_kind = KIND_TRANSIT
                 else:
                     ex_kind = KIND_PLACE

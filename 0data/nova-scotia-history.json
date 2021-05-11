@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-05-10 22:46",
+  "last_updated": "2021-05-11 04:49",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -109,7 +109,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate while awaiting results",
       "zone": "Northern",
-      "last_updated": "2021-04-28 19:57"
+      "last_updated": "2021-04-28 19:45"
     },
     {
       "kind": "Place",
@@ -529,7 +529,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-04-28 19:55"
+      "last_updated": "2021-04-28 19:53"
     },
     {
       "kind": "Halifax Transit",

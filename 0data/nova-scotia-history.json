@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-05-10 16:42",
+  "last_updated": "2021-05-10 22:46",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -97,7 +97,7 @@
       "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-across-province-and-air-canada-flight-0",
       "advice": "Self-isolate if you have symptoms",
       "zone": "Northern",
-      "last_updated": "2021-04-28 19:47"
+      "last_updated": "2021-04-28 19:57"
     },
     {
       "kind": "Place",
@@ -5594,6 +5594,270 @@
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
       "last_updated": "2021-05-09 21:24"
+    },
+    {
+      "kind": "Flight",
+      "name": "Air Canada 604 Toronto to Halifax",
+      "address": "Passengers in rows 12 – 18, seats C, D, E and F",
+      "g_maps_address": "",
+      "date_begin": "2021-05-08 08:15",
+      "date_end": "2021-05-08 11:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Get tested immediately",
+      "zone": "",
+      "last_updated": "2021-05-10 20:49"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #9B (Herring Cove)",
+      "address": "Travelling from Mumford Terminal to Barrington Street/Sackville Street",
+      "g_maps_address": "",
+      "date_begin": "2021-05-07 13:45",
+      "date_end": "2021-05-07 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:41"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #28 (Bayers Lake)",
+      "address": "Travelling from Lacewood Terminal to Mumford Terminal",
+      "g_maps_address": "",
+      "date_begin": "2021-05-07 13:15",
+      "date_end": "2021-05-07 15:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:39"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #39 (Flamingo)",
+      "address": "Travelling from Farnham Gate Road/Montgomery Court to Lacewood Terminal",
+      "g_maps_address": "",
+      "date_begin": "2021-05-07 12:45",
+      "date_end": "2021-05-07 14:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:37"
+    },
+    {
+      "kind": "Flight",
+      "name": "West Jet WS230 Calgary to Halifax",
+      "address": "Passengers in rows 3 - 9, seats C, D, E, and F",
+      "g_maps_address": "",
+      "date_begin": "2021-05-07 09:30",
+      "date_end": "2021-05-07 17:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Get tested immediately",
+      "zone": "",
+      "last_updated": "2021-05-10 20:52"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #39 (Flamingo)",
+      "address": "Travelling from Lacewood Terminal to Farnham Gate Road/Chelton Woods",
+      "g_maps_address": "",
+      "date_begin": "2021-05-06 14:45",
+      "date_end": "2021-05-06 16:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:34"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #3 (Crosstown)",
+      "address": "Travelling from Mumford Terminal to Lacewood Terminal",
+      "g_maps_address": "",
+      "date_begin": "2021-05-06 13:45",
+      "date_end": "2021-05-06 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:32"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #3 (Crosstown)",
+      "address": "Travelling from Lacewood Terminal to Mumford Terminal",
+      "g_maps_address": "",
+      "date_begin": "2021-05-06 06:45",
+      "date_end": "2021-05-06 08:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:30"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #39 (Flamingo)",
+      "address": "Travelling from Farnham Gate Road/Montgomery Court to Lacewood Terminal",
+      "g_maps_address": "",
+      "date_begin": "2021-05-06 06:15",
+      "date_end": "2021-05-06 08:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:28"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #39 (Flamingo)",
+      "address": "Travelling from Lacewood Terminal to Farnham Gate Road/Chelton Woods",
+      "g_maps_address": "",
+      "date_begin": "2021-05-05 14:45",
+      "date_end": "2021-05-05 16:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:26"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #3 (Crosstown)",
+      "address": "Travelling from Mumford Terminal to Lacewood Terminal",
+      "g_maps_address": "",
+      "date_begin": "2021-05-05 14:15",
+      "date_end": "2021-05-05 16:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:24"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #21 (Timberlea)",
+      "address": "Travelling from Brentwood Ave after Eisener Street (Stop 6318) to Chain Lake Drive opposite Civic 209 (Stop 6387)",
+      "g_maps_address": "",
+      "date_begin": "2021-05-05 13:30",
+      "date_end": "2021-05-05 15:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:12"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #8 (Sackville)",
+      "address": "Travelling from Bedford Hwy/Bayview to Robie/Quinpool",
+      "g_maps_address": "",
+      "date_begin": "2021-05-05 09:45",
+      "date_end": "2021-05-05 11:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:22"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #39 (Flamingo)",
+      "address": "Travelling from Farnham Gate Road/Chelton Woods to Bedford Hwy/Bayview",
+      "g_maps_address": "",
+      "date_begin": "2021-05-05 09:15",
+      "date_end": "2021-05-05 11:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:18"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #21 (Timberlea)",
+      "address": "Travelling from Brentwood Avenue after Eisener Street (Stop 6318) to Chain Lake Drive opposite Civic 209 (Stop 6387)",
+      "g_maps_address": "",
+      "date_begin": "2021-05-04 13:30",
+      "date_end": "2021-05-04 15:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:05"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #53 (Notting Park)",
+      "address": "Travelling from Wyse Road before Boland Road to Albro Lake Road",
+      "g_maps_address": "",
+      "date_begin": "2021-05-04 11:30",
+      "date_end": "2021-05-04 13:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:16"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #53 (Notting Park)",
+      "address": "Travelling from Albro Lake Road to the Bridge Terminal",
+      "g_maps_address": "",
+      "date_begin": "2021-05-04 10:30",
+      "date_end": "2021-05-04 12:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:14"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #10 (Dalhousie)",
+      "address": "Travelling from the Bridge Terminal to Booth Street",
+      "g_maps_address": "",
+      "date_begin": "2021-04-30 23:15",
+      "date_end": "2021-05-01 00:15",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 20:02"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #1 (Spring Garden)",
+      "address": "Travelling from Spring Garden Road to the Bridge Terminal",
+      "g_maps_address": "",
+      "date_begin": "2021-04-30 22:15",
+      "date_end": "2021-04-30 23:45",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 19:58"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #1 (Spring Garden)",
+      "address": "Travelling from the Bridge Terminal to Spring Garden Road",
+      "g_maps_address": "",
+      "date_begin": "2021-04-30 13:30",
+      "date_end": "2021-04-30 15:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 19:54"
+    },
+    {
+      "kind": "Halifax Transit",
+      "name": "Halifax Transit Route #10 (Dalhousie)",
+      "address": "Travelling from Booth Street to the Bridge Terminal",
+      "g_maps_address": "",
+      "date_begin": "2021-04-30 13:00",
+      "date_end": "2021-04-30 14:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-05-10 19:51"
+    },
+    {
+      "kind": "Flight",
+      "name": "Air Canada 624 Toronto to Halifax",
+      "address": "Passengers in rows 20 - 26, seats C, D and F",
+      "g_maps_address": "",
+      "date_begin": "2021-04-27 21:15",
+      "date_end": "2021-04-28 00:15",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-transit-routes-two-air-canada-flights-and-one-west",
+      "advice": "Get tested immediately",
+      "zone": "",
+      "last_updated": "2021-05-10 20:46"
     }
   ]
 }

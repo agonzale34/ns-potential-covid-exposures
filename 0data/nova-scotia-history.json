@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-05-11 16:53",
+  "last_updated": "2021-08-05 18:40",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -5870,6 +5870,186 @@
       "advice": "Get tested immediately",
       "zone": "",
       "last_updated": "2021-05-11 09:58"
+    },
+    {
+      "kind": "Place",
+      "name": "Walmart New Glasgow",
+      "address": "713 Westville Road, New Glasgow",
+      "g_maps_address": "713 Westville Rd, New Glasgow, NS B2H 2J6 ",
+      "date_begin": "2021-07-30 13:30",
+      "date_end": "2021-07-30 15:15",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-central-and-northern-zones-and-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-07-31 19:29"
+    },
+    {
+      "kind": "Place",
+      "name": "Tomavo Halifax",
+      "address": "215 Chain Lake Drive",
+      "g_maps_address": "215 Chain Lake Dr Unit E, Halifax, NS B3S 1C9 ",
+      "date_begin": "2021-07-30 12:30",
+      "date_end": "2021-07-30 13:45",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-0",
+      "advice": "",
+      "zone": "Central",
+      "last_updated": "2021-08-01 20:37"
+    },
+    {
+      "kind": "Place",
+      "name": "Costco Halifax",
+      "address": "230 Chain Lake Drive",
+      "g_maps_address": "230 Chain Lake Dr, Halifax, NS B3S 1C5 ",
+      "date_begin": "2021-07-30 12:00",
+      "date_end": "2021-07-30 13:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-0",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-01 20:36"
+    },
+    {
+      "kind": "Place",
+      "name": "Home Depot Halifax",
+      "address": "368 Lacewood Drive",
+      "g_maps_address": "",
+      "date_begin": "2021-07-30 11:30",
+      "date_end": "2021-07-30 13:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-0",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-01 20:36"
+    },
+    {
+      "kind": "Place",
+      "name": "Red Cap Restaurant and Motel",
+      "address": "1034 Route 335 S, Middle West Pubnico",
+      "g_maps_address": "1034 Route 335 S, Middle West Pubnico, NS B0W 2M0 ",
+      "date_begin": "2021-07-29 13:30",
+      "date_end": "2021-07-29 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-two-locations-western-zone",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Western",
+      "last_updated": "2021-08-04 18:12"
+    },
+    {
+      "kind": "Place",
+      "name": "Sobeys Halifax",
+      "address": "1120 Queen Street, Halifax",
+      "g_maps_address": "1120 Queen St, Halifax, NS B3H 2R9 ",
+      "date_begin": "2021-07-29 13:00",
+      "date_end": "2021-07-29 14:30",
+      "details": "https://www.nshealth.ca/news/potential-low-risk-exposure-covid-19-two-locations-central-zone",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-07-30 18:02"
+    },
+    {
+      "kind": "Place",
+      "name": "Halifax Seed",
+      "address": "5860 Kane Street, Halifax",
+      "g_maps_address": "",
+      "date_begin": "2021-07-29 12:30",
+      "date_end": "2021-07-29 14:00",
+      "details": "https://www.nshealth.ca/news/potential-low-risk-exposure-covid-19-two-locations-central-zone",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-07-30 18:00"
+    },
+    {
+      "kind": "Place",
+      "name": "Sobeys New Glasgow",
+      "address": "38 George Street, New Glasgow",
+      "g_maps_address": "38 George St, New Glasgow, NS B2H 2K1 ",
+      "date_begin": "2021-07-28 17:00",
+      "date_end": "2021-07-28 18:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-central-and-northern-zones-and-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-07-31 19:29"
+    },
+    {
+      "kind": "Place",
+      "name": "Kent Stellarton",
+      "address": "60 Lawrence Blvd, Stellarton",
+      "g_maps_address": "60 Lawrence Blvd, Stellarton, NS B0K 1S0 ",
+      "date_begin": "2021-07-28 16:30",
+      "date_end": "2021-07-28 18:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-central-and-northern-zones-and-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-07-31 19:29"
+    },
+    {
+      "kind": "Place",
+      "name": "Angel’s Nails and Spa",
+      "address": "76 Starrs Road, Yarmouth",
+      "g_maps_address": "76 Starrs Rd, Yarmouth, NS B5A 4A8 ",
+      "date_begin": "2021-07-28 13:30",
+      "date_end": "2021-07-28 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-two-locations-western-zone",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Western",
+      "last_updated": "2021-08-04 18:09"
+    },
+    {
+      "kind": "Place",
+      "name": "Tim Hortons Enfield",
+      "address": "next to Enfield Big Stop (6739 Highway #2, Enfield)",
+      "g_maps_address": "6739 Highway #2, Enfield, NS B2T 1C8 ",
+      "date_begin": "2021-07-26 13:30",
+      "date_end": "2021-07-26 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-locations-central-and-northern-zones-and-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-07-31 19:30"
+    },
+    {
+      "kind": "Place",
+      "name": "Chebucto Inn",
+      "address": "6151 Lady Hammond Road, Halifax",
+      "g_maps_address": "",
+      "date_begin": "2021-07-24 06:30",
+      "date_end": "2021-07-24 08:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-central-zone-8",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-07-29 18:25"
+    },
+    {
+      "kind": "Place",
+      "name": "Townhouse Restaurant",
+      "address": "76 College Street, Antigonish",
+      "g_maps_address": "76 College St, Antigonish, NS B2G 1X7 ",
+      "date_begin": "2021-07-23 20:30",
+      "date_end": "2021-07-23 21:45",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-eastern-zone-and-one-air-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Eastern",
+      "last_updated": "2021-07-27 18:50"
+    },
+    {
+      "kind": "Place",
+      "name": "Shoppers Drug Mart",
+      "address": "Evangeline Mall, 95 Warwick Street, Digby",
+      "g_maps_address": "Evangeline Mall, 95 Warwick St, Digby, NS B0V 1A0 ",
+      "date_begin": "2021-07-23 12:00",
+      "date_end": "2021-07-23 13:15",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-2",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-02 19:05"
+    },
+    {
+      "kind": "Place",
+      "name": "Sobeys",
+      "address": "60 Tacoma Drive, Dartmouth",
+      "g_maps_address": "60 Tacoma Dr, Dartmouth, NS B2W 3E5 ",
+      "date_begin": "2021-07-21 17:30",
+      "date_end": "2021-07-21 19:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-central-zone-7",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-07-25 18:46"
     }
   ]
 }

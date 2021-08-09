@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-08 18:46",
+  "last_updated": "2021-08-09 00:47",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6050,6 +6050,114 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-07-25 18:46"
+    },
+    {
+      "kind": "Place",
+      "name": "Atlantic Superstore - Yarmouth",
+      "address": "104 Starrs Road, Yarmouth",
+      "g_maps_address": "104 Starrs Rd, Yarmouth, NS B5A 2T5 ",
+      "date_begin": "2021-08-06 15:30",
+      "date_end": "2021-08-06 16:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-several-locations-western-and-central-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-08 19:03"
+    },
+    {
+      "kind": "Place",
+      "name": "Canadian Tire - Dartmouth",
+      "address": "30 Lamont Terrace, Dartmouth",
+      "g_maps_address": "30 Lamont Terrace, Dartmouth, NS B3B 0B5 ",
+      "date_begin": "2021-08-06 15:30",
+      "date_end": "2021-08-06 17:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-several-locations-western-and-central-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-08 19:04"
+    },
+    {
+      "kind": "Place",
+      "name": "Yarmouth Creatives",
+      "address": "76 Starrs Road, Yarmouth",
+      "g_maps_address": "76 Starrs Rd, Yarmouth, NS B5A 2T5 ",
+      "date_begin": "2021-08-06 12:30",
+      "date_end": "2021-08-06 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-several-locations-western-and-central-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-08 19:00"
+    },
+    {
+      "kind": "Place",
+      "name": "The Great Canadian Dollar Store - Yarmouth",
+      "address": "76 Starrs Road #1a, Yarmouth",
+      "g_maps_address": "76 Starrs Rd #1a, Yarmouth, NS B5A 2T5 ",
+      "date_begin": "2021-08-06 12:30",
+      "date_end": "2021-08-06 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-several-locations-western-and-central-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-08 19:01"
+    },
+    {
+      "kind": "Place",
+      "name": "Fall River & Riverlake District Lions Club",
+      "address": "843 Fall River Road, Fall River",
+      "g_maps_address": "",
+      "date_begin": "2021-08-05 18:30",
+      "date_end": "2021-08-05 21:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-several-locations-western-and-central-zone-and-two-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-08-08 19:07"
+    },
+    {
+      "kind": "Place",
+      "name": "Good Day Kitchen & Cafe - Fall River",
+      "address": "1480 Fall River Road UNIT 302, Fall River",
+      "g_maps_address": "",
+      "date_begin": "2021-08-05 11:30",
+      "date_end": "2021-08-05 13:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-several-locations-western-and-central-zone-and-two-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-08-08 19:06"
+    },
+    {
+      "kind": "Place",
+      "name": "Atlantic Superstore - Yarmouth",
+      "address": "104 Starrs Road, Yarmouth",
+      "g_maps_address": "104 Starrs Rd, Yarmouth, NS B5A 2T5 ",
+      "date_begin": "2021-08-05 11:00",
+      "date_end": "2021-08-05 12:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-several-locations-western-and-central-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-08 18:58"
+    },
+    {
+      "kind": "Place",
+      "name": "Yarmouth Public Library",
+      "address": "405 Main Street, Yarmouth",
+      "g_maps_address": "405 Main St, Yarmouth, NS B5A 1G3 ",
+      "date_begin": "2021-08-04 12:30",
+      "date_end": "2021-08-04 16:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-several-locations-western-and-central-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-08 18:56"
+    },
+    {
+      "kind": "Place",
+      "name": "Giant Tiger - Yarmouth",
+      "address": "130 Starrs Road, Yarmouth",
+      "g_maps_address": "130 Starrs Rd, Yarmouth, NS B5A 4E5 ",
+      "date_begin": "2021-08-04 12:30",
+      "date_end": "2021-08-04 16:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-several-locations-western-and-central-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-08 18:56"
     }
   ]
 }

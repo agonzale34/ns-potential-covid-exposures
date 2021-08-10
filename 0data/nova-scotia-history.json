@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-09 18:49",
+  "last_updated": "2021-08-10 00:50",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6158,6 +6158,30 @@
       "advice": "Get tested immediately",
       "zone": "Western",
       "last_updated": "2021-08-08 18:56"
+    },
+    {
+      "kind": "Place",
+      "name": "Walmart Halifax",
+      "address": "220 Chain Lake Drive, Halifax",
+      "g_maps_address": "",
+      "date_begin": "2021-08-08 11:30",
+      "date_end": "2021-08-08 13:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-central-zone-and-one-united-airlinesair-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-09 18:57"
+    },
+    {
+      "kind": "Place",
+      "name": "Sobeys Dartmouth",
+      "address": "60 Tacoma Drive, Dartmouth",
+      "g_maps_address": "60 Tacoma Dr, Dartmouth, NS B2W 3E5 ",
+      "date_begin": "2021-07-21 17:30",
+      "date_end": "2021-07-21 19:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-central-zone-7",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-09 19:04"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-13 12:58",
+  "last_updated": "2021-08-13 18:58",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6182,6 +6182,30 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-08-09 19:04"
+    },
+    {
+      "kind": "Place",
+      "name": "Millstone Public House",
+      "address": "67 King's Wharf Place, Suite 102, Dartmouth",
+      "g_maps_address": "",
+      "date_begin": "2021-08-11 18:00",
+      "date_end": "2021-08-11 21:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-two-locations-central-zone-4",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-13 18:25"
+    },
+    {
+      "kind": "Place",
+      "name": "Cruikshank's Halifax Funeral Home",
+      "address": "2666 Windsor Street, Halifax",
+      "g_maps_address": "2666 Windsor St, Halifax, NS B3K 5C9 ",
+      "date_begin": "2021-08-07 09:00",
+      "date_end": "2021-08-07 17:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-two-locations-central-zone-4",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-13 18:22"
     }
   ]
 }

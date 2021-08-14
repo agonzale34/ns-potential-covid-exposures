@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-14 13:00",
+  "last_updated": "2021-08-14 19:01",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6206,6 +6206,90 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-08-13 18:22"
+    },
+    {
+      "kind": "Place",
+      "name": "The Links at Brunello, Patio Restaurant",
+      "address": "120 Brunello Blvd, Timberlea",
+      "g_maps_address": "120 Brunello Blvd, Timberlea, NS B3T 0G9 ",
+      "date_begin": "2021-08-12 15:00",
+      "date_end": "2021-08-12 16:45",
+      "details": "https://www.nshealth.ca/node/add/covid-exposures",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-14 18:26"
+    },
+    {
+      "kind": "Place",
+      "name": "Winners, Mic Mac Mall",
+      "address": "21 Mic Mac Blvd, Dartmouth",
+      "g_maps_address": "",
+      "date_begin": "2021-08-10 18:00",
+      "date_end": "2021-08-10 19:30",
+      "details": "https://www.nshealth.ca/node/add/covid-exposures",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-14 18:28"
+    },
+    {
+      "kind": "Place",
+      "name": "Garage, Mic Mac Mall",
+      "address": "21 Mic Mac Blvd, Dartmouth",
+      "g_maps_address": "21 Micmac Blvd #247, Dartmouth, NS B3A 4N3 ",
+      "date_begin": "2021-08-10 18:00",
+      "date_end": "2021-08-10 19:15",
+      "details": "https://www.nshealth.ca/node/add/covid-exposures",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-14 18:25"
+    },
+    {
+      "kind": "Place",
+      "name": "Ardene – Mic Mac Mall",
+      "address": "21 Mic Mac Blvd, Dartmouth",
+      "g_maps_address": "21 Micmac Boulevard 285+287, Dartmouth, NS B3A 4N3 ",
+      "date_begin": "2021-08-10 17:30",
+      "date_end": "2021-08-10 19:00",
+      "details": "https://www.nshealth.ca/node/add/covid-exposures",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-14 18:25"
+    },
+    {
+      "kind": "Place",
+      "name": "Food Court, Mic Mac Mall",
+      "address": "21 Mic Mac Blvd, Dartmouth",
+      "g_maps_address": "",
+      "date_begin": "2021-08-10 17:00",
+      "date_end": "2021-08-10 18:30",
+      "details": "https://www.nshealth.ca/node/add/covid-exposures",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-14 18:26"
+    },
+    {
+      "kind": "Place",
+      "name": "Build-A-Bear Workshop, Mic Mac Mall",
+      "address": "21 Mic Mac Blvd, Dartmouth",
+      "g_maps_address": "21 Micmac Blvd, Dartmouth, NS B3A 4N3 ",
+      "date_begin": "2021-08-10 16:30",
+      "date_end": "2021-08-10 18:00",
+      "details": "https://www.nshealth.ca/node/add/covid-exposures",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-14 18:25"
+    },
+    {
+      "kind": "Place",
+      "name": "IKEA Dartmouth",
+      "address": "645 Cutler Avenue, Dartmouth",
+      "g_maps_address": "",
+      "date_begin": "2021-08-10 15:30",
+      "date_end": "2021-08-10 17:30",
+      "details": "https://www.nshealth.ca/node/add/covid-exposures",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-14 18:28"
     }
   ]
 }

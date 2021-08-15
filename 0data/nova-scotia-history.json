@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-15 07:02",
+  "last_updated": "2021-08-15 13:03",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6215,9 +6215,9 @@
       "date_begin": "2021-08-12 15:00",
       "date_end": "2021-08-12 16:45",
       "details": "https://www.nshealth.ca/node/add/covid-exposures",
-      "advice": "Get tested immediately",
+      "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-08-14 18:26"
+      "last_updated": "2021-08-15 08:27"
     },
     {
       "kind": "Place",
@@ -6263,9 +6263,9 @@
       "date_begin": "2021-08-10 17:00",
       "date_end": "2021-08-10 18:30",
       "details": "https://www.nshealth.ca/node/add/covid-exposures",
-      "advice": "Get tested immediately",
+      "advice": "Self-isolate while awaiting results",
       "zone": "Central",
-      "last_updated": "2021-08-14 18:26"
+      "last_updated": "2021-08-15 08:28"
     },
     {
       "kind": "Place",

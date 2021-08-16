@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-15 19:04",
+  "last_updated": "2021-08-16 01:05",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6290,6 +6290,114 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-08-14 18:28"
+    },
+    {
+      "kind": "Place",
+      "name": "Alexandra’s Pizza",
+      "address": "6 Sterling Rd, Glace Bay",
+      "g_maps_address": "6 Sterling Rd, Glace Bay, NS B1A 3X3 ",
+      "date_begin": "2021-08-14 13:00",
+      "date_end": "2021-08-14 14:45",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-14-and-new-potential-exposures-covid-19",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Eastern",
+      "last_updated": "2021-08-15 22:36"
+    },
+    {
+      "kind": "Place",
+      "name": "Cineplex Sydney",
+      "address": "325 Prince St., Sydney",
+      "g_maps_address": "325 Prince St, Sydney, NS B1P 5K6 ",
+      "date_begin": "2021-08-13 18:00",
+      "date_end": "2021-08-13 21:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-14-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Eastern",
+      "last_updated": "2021-08-15 21:56"
+    },
+    {
+      "kind": "Place",
+      "name": "A&W Sydney",
+      "address": "314 Prince St., Sydney",
+      "g_maps_address": "314 Prince St, Sydney, NS B1P 5K6 ",
+      "date_begin": "2021-08-13 17:45",
+      "date_end": "2021-08-13 19:15",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-14-and-new-potential-exposures-covid-19",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Eastern",
+      "last_updated": "2021-08-15 22:31"
+    },
+    {
+      "kind": "Place",
+      "name": "Sobeys Truro",
+      "address": "68 Robie St., Truro ",
+      "g_maps_address": "68 Robie St, Truro, NS B2N 1L2 ",
+      "date_begin": "2021-08-13 13:30",
+      "date_end": "2021-08-13 15:15",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-14-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-15 21:57"
+    },
+    {
+      "kind": "Place",
+      "name": "Jimolly’s Bakery Cafe",
+      "address": "76 Inglis Place, Truro",
+      "g_maps_address": "76 Inglis Pl, Truro, NS B2N 4B4 ",
+      "date_begin": "2021-08-13 12:00",
+      "date_end": "2021-08-13 14:15",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-14-and-new-potential-exposures-covid-19",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Northern",
+      "last_updated": "2021-08-15 22:10"
+    },
+    {
+      "kind": "Place",
+      "name": "The Links at Brunello, Patio Restaurant (UPDATED TIME)",
+      "address": "120 Brunello Blvd, Timberlea",
+      "g_maps_address": "120 Brunello Blvd, Timberlea, NS B3T 0G9 ",
+      "date_begin": "2021-08-12 16:15",
+      "date_end": "2021-08-12 18:00",
+      "details": "https://www.nshealth.ca/node/add/covid-exposures",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-08-15 23:01"
+    },
+    {
+      "kind": "Place",
+      "name": "Jimolly’s Bakery Cafe",
+      "address": "76 Inglis Place, Truro",
+      "g_maps_address": "76 Inglis Pl, Truro, NS B2N 4B4 ",
+      "date_begin": "2021-08-11 11:00",
+      "date_end": "2021-08-11 13:15",
+      "details": "",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Northern",
+      "last_updated": "2021-08-15 22:07"
+    },
+    {
+      "kind": "Place",
+      "name": "Superstore Upper Tantallon",
+      "address": "5178 St. Margaret’s Bay Rd., Upper Tantallon",
+      "g_maps_address": "5178 St Margaret's Bay Rd, Upper Tantallon, NS B3Z 4G3 ",
+      "date_begin": "2021-08-10 18:00",
+      "date_end": "2021-08-10 20:00",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-14-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-15 21:46"
+    },
+    {
+      "kind": "Place",
+      "name": "Simeon’s Family Restaurant",
+      "address": "581 Grand Lake Rd., Sydney",
+      "g_maps_address": "581 Grand Lake Rd, Sydney, NS B1P 5T3 ",
+      "date_begin": "2021-08-09 12:00",
+      "date_end": "2021-08-09 16:00",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-14-and-new-potential-exposures-covid-19",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Eastern",
+      "last_updated": "2021-08-15 22:29"
     }
   ]
 }

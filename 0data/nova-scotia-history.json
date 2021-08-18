@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-17 19:10",
+  "last_updated": "2021-08-18 01:11",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6398,6 +6398,30 @@
       "advice": "Self-isolate while awaiting results",
       "zone": "Eastern",
       "last_updated": "2021-08-15 22:29"
+    },
+    {
+      "kind": "Place",
+      "name": "Zatzman Sportsplex",
+      "address": "swimming pool and men’s change room, 110 Wyse Road",
+      "g_maps_address": "110 Wyse Rd, Dartmouth, NS B3A 1M2 ",
+      "date_begin": "2021-08-13 11:30",
+      "date_end": "2021-08-13 14:00",
+      "details": "http://www.nshealth.ca/news/potential-exposures-covid-19-one-location-central-zone-and-three-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-08-17 19:12"
+    },
+    {
+      "kind": "Place",
+      "name": "Zatzman Sportsplex",
+      "address": "Swimming pool and men’s change room, 110 Wyse Road",
+      "g_maps_address": "110 Wyse Rd, Dartmouth, NS B3A 1M2 ",
+      "date_begin": "2021-08-11 11:30",
+      "date_end": "2021-08-11 14:00",
+      "details": "http://www.nshealth.ca/news/potential-exposures-covid-19-one-location-central-zone-and-three-flights",
+      "advice": "Self-isolate while awaiting results",
+      "zone": "Central",
+      "last_updated": "2021-08-17 19:13"
     }
   ]
 }

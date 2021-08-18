@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-18 13:12",
+  "last_updated": "2021-08-18 19:13",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6422,6 +6422,30 @@
       "advice": "Self-isolate while awaiting results",
       "zone": "Central",
       "last_updated": "2021-08-17 19:13"
+    },
+    {
+      "kind": "Place",
+      "name": "Crow’s Nest",
+      "address": "40 Water Street, Digby",
+      "g_maps_address": "40 Water St, Digby, NS B0V 1A0 ",
+      "date_begin": "2021-08-15 11:30",
+      "date_end": "2021-08-15 14:00",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-and-one-location-central-zone",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-18 18:51"
+    },
+    {
+      "kind": "Place",
+      "name": "Burrito Jax",
+      "address": "5215 Blowers Street, Halifax",
+      "g_maps_address": "5215 Blowers St, Halifax, NS B3J 1J7 ",
+      "date_begin": "2021-08-14 09:30",
+      "date_end": "2021-08-14 17:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-and-one-location-central-zone",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-18 18:53"
     }
   ]
 }

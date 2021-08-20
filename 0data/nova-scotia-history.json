@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-19 19:16",
+  "last_updated": "2021-08-20 01:17",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6446,6 +6446,150 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-08-18 18:53"
+    },
+    {
+      "kind": "Place",
+      "name": "Walmart",
+      "address": "141 Damascus Road, Bedford",
+      "g_maps_address": "141 Damascus Rd, Bedford, NS B4A 0C2 ",
+      "date_begin": "2021-08-17 10:45",
+      "date_end": "2021-08-17 12:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-19 19:45"
+    },
+    {
+      "kind": "Place",
+      "name": "Zara",
+      "address": "Halifax Shopping Centre",
+      "g_maps_address": "Mumford Rd #7001, Halifax, NS B3L 2H8 ",
+      "date_begin": "2021-08-15 14:00",
+      "date_end": "2021-08-15 17:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-19 19:47"
+    },
+    {
+      "kind": "Place",
+      "name": "H & M",
+      "address": "Halifax Shopping Centre",
+      "g_maps_address": "7001 Mumford Rd, Halifax, NS B3L 4N9 ",
+      "date_begin": "2021-08-15 14:00",
+      "date_end": "2021-08-15 17:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-19 19:48"
+    },
+    {
+      "kind": "Place",
+      "name": "Sport Check",
+      "address": "Halifax Shopping Centre",
+      "g_maps_address": "7001 Mumford Rd Unit #1, Halifax, NS B3L 2H8 ",
+      "date_begin": "2021-08-15 14:00",
+      "date_end": "2021-08-15 17:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-19 19:48"
+    },
+    {
+      "kind": "Place",
+      "name": "Hollister",
+      "address": "Halifax Shopping Centre",
+      "g_maps_address": "7001 Mumford Rd Ste 101, Halifax, NS B3L 4R3 ",
+      "date_begin": "2021-08-15 14:00",
+      "date_end": "2021-08-15 17:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-19 19:47"
+    },
+    {
+      "kind": "Place",
+      "name": "American Eagle",
+      "address": "Halifax Shopping Centre",
+      "g_maps_address": "7001 Mumford Rd, Halifax, NS B3L 2N9 ",
+      "date_begin": "2021-08-15 14:00",
+      "date_end": "2021-08-15 17:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-19 19:47"
+    },
+    {
+      "kind": "Place",
+      "name": "Banana Republic",
+      "address": "Halifax Shopping Centre",
+      "g_maps_address": "7001 Mumford Rd, Halifax, NS B3L 4N9 ",
+      "date_begin": "2021-08-15 14:00",
+      "date_end": "2021-08-15 17:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-19 19:45"
+    },
+    {
+      "kind": "Place",
+      "name": "Walmart",
+      "address": "46 Robert Angus Drive, Amherst",
+      "g_maps_address": "46 Robert Angus Dr, Amherst, NS B4H 4R7 ",
+      "date_begin": "2021-08-14 10:30",
+      "date_end": "2021-08-14 12:00",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-19 19:48"
+    },
+    {
+      "kind": "Place",
+      "name": "Sobeys",
+      "address": "142 S Albion Street, Amherst",
+      "g_maps_address": "142 S Albion St, Amherst, NS B4H 4H4 ",
+      "date_begin": "2021-08-14 10:00",
+      "date_end": "2021-08-14 11:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-19 19:49"
+    },
+    {
+      "kind": "Place",
+      "name": "Superstore",
+      "address": "126 S Albion Street, Amherst",
+      "g_maps_address": "126 S Albion St, Amherst, NS B4H 2Z3 ",
+      "date_begin": "2021-08-14 09:45",
+      "date_end": "2021-08-14 11:00",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-19 19:49"
+    },
+    {
+      "kind": "Place",
+      "name": "Burrito Jax - Risk Correction",
+      "address": "5215 Blowers Street, Halifax",
+      "g_maps_address": "5215 Blowers St, Halifax, NS B3J 1J7 ",
+      "date_begin": "2021-08-14 09:30",
+      "date_end": "2021-08-14 17:30",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-19 20:41"
+    },
+    {
+      "kind": "Place",
+      "name": "Giant Tiger",
+      "address": "142 S Albion Street, Amherst",
+      "g_maps_address": "142 S Albion St, Amherst, NS B4H 2X2 ",
+      "date_begin": "2021-08-14 09:30",
+      "date_end": "2021-08-14 10:45",
+      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-august-18-and-new-potential-exposures-covid-19",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-19 19:49"
     }
   ]
 }

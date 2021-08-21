@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-21 13:25",
+  "last_updated": "2021-08-21 19:26",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6854,6 +6854,66 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-08-20 21:41"
+    },
+    {
+      "kind": "Place",
+      "name": "Split Crow Pub",
+      "address": "1855 Granville Street, Halifax",
+      "g_maps_address": "1855 Granville St, Halifax, NS B3J 3L7 ",
+      "date_begin": "2021-08-19 18:30",
+      "date_end": "2021-08-19 22:00",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-central-and-northern-zones-and-one-air-canada-flight-0",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-21 18:46"
+    },
+    {
+      "kind": "Place",
+      "name": "Lower Deck Bar & Grill",
+      "address": "278 Lacewood Drive, Halifax",
+      "g_maps_address": "278 Lacewood Dr, Halifax, NS B3M 3N8 ",
+      "date_begin": "2021-08-19 15:00",
+      "date_end": "2021-08-19 16:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-central-and-northern-zones-and-one-air-canada-flight-0",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-21 18:41"
+    },
+    {
+      "kind": "Place",
+      "name": "Maritime Mosaic",
+      "address": "129 Victoria Street, Amherst",
+      "g_maps_address": "129 Victoria St E, Amherst, NS B4H 1X9 ",
+      "date_begin": "2021-08-14 12:30",
+      "date_end": "2021-08-14 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-central-and-northern-zones-and-one-air-canada-flight-0",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-21 18:36"
+    },
+    {
+      "kind": "Place",
+      "name": "The Balcony Candy Shoppe",
+      "address": "129 Victoria Street, Amherst",
+      "g_maps_address": "129 Victoria St E, Amherst, NS B4H 1X9 ",
+      "date_begin": "2021-08-14 12:30",
+      "date_end": "2021-08-14 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-central-and-northern-zones-and-one-air-canada-flight-0",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-21 18:43"
+    },
+    {
+      "kind": "Place",
+      "name": "Curly’s Sports and Supplements",
+      "address": "129 Victoria Street, Amherst",
+      "g_maps_address": "129 Victoria St E, Amherst, NS B4H 1X9 ",
+      "date_begin": "2021-08-14 12:30",
+      "date_end": "2021-08-14 15:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-central-and-northern-zones-and-one-air-canada-flight-0",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-21 18:45"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-24 13:39",
+  "last_updated": "2021-08-24 19:40",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6926,6 +6926,102 @@
       "advice": "Self-isolate if you have symptoms",
       "zone": "Northern",
       "last_updated": "2021-08-23 19:16"
+    },
+    {
+      "kind": "Place",
+      "name": "Walmart Dartmouth",
+      "address": "90 Lamont Terrace, Dartmouth",
+      "g_maps_address": "90 Lamont Terrace, Dartmouth, NS B3B 0B5 ",
+      "date_begin": "2021-08-24 16:45",
+      "date_end": "2021-08-24 18:00",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-eastern-and-central-zone-and-one-air-canada",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Central",
+      "last_updated": "2021-08-24 18:42"
+    },
+    {
+      "kind": "Flight",
+      "name": "Air Canada flight 612 from Toronto to Halifax",
+      "address": "Rows 28 to 34 seats A, C and D",
+      "g_maps_address": "",
+      "date_begin": "2021-08-22 16:45",
+      "date_end": "2021-08-22 20:00",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-eastern-and-central-zone-and-one-air-canada",
+      "advice": "Get tested immediately",
+      "zone": "",
+      "last_updated": "2021-08-24 18:42"
+    },
+    {
+      "kind": "Place",
+      "name": "Superstore Dartmouth",
+      "address": "920 Cole Harbour Rd., Dartmouth",
+      "g_maps_address": "",
+      "date_begin": "2021-08-22 15:45",
+      "date_end": "2021-08-22 17:15",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-eastern-and-central-zone-and-one-air-canada",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Central",
+      "last_updated": "2021-08-24 18:42"
+    },
+    {
+      "kind": "Place",
+      "name": "Costco Dartmouth Crossing",
+      "address": "137 Countryview Dr., Dartmouth",
+      "g_maps_address": "137 Countryview Dr, Dartmouth, NS B3B 0E7 ",
+      "date_begin": "2021-08-22 13:30",
+      "date_end": "2021-08-22 15:00",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-eastern-and-central-zone-and-one-air-canada",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Central",
+      "last_updated": "2021-08-24 18:42"
+    },
+    {
+      "kind": "Place",
+      "name": "BackEast Seafood truck",
+      "address": "3072 Post Rd., Antigonish",
+      "g_maps_address": "3072 Post Rd, Antigonish, NS B2G 2K6 ",
+      "date_begin": "2021-08-21 12:30",
+      "date_end": "2021-08-21 14:00",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-eastern-and-central-zone-and-one-air-canada",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Eastern",
+      "last_updated": "2021-08-24 18:42"
+    },
+    {
+      "kind": "Place",
+      "name": "Sobeys",
+      "address": "612 Main St., Dartmouth",
+      "g_maps_address": "612 Main St, Dartmouth, NS B2W 5M5 ",
+      "date_begin": "2021-08-20 15:15",
+      "date_end": "2021-08-20 16:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-eastern-and-central-zone-and-one-air-canada",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Central",
+      "last_updated": "2021-08-24 18:42"
+    },
+    {
+      "kind": "Place",
+      "name": "andry Field - Little League Complex",
+      "address": "47 Croft St., Amherst",
+      "g_maps_address": "47 Croft St, Amherst, NS B4H 4W4 ",
+      "date_begin": "2021-08-18 17:30",
+      "date_end": "2021-08-18 20:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-eastern-and-central-zone-and-one-air-canada",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Northern",
+      "last_updated": "2021-08-24 18:42"
+    },
+    {
+      "kind": "Place",
+      "name": "Foster Field - Little League Complex",
+      "address": "47 Croft St., Amherst",
+      "g_maps_address": "",
+      "date_begin": "2021-08-16 17:30",
+      "date_end": "2021-08-16 20:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-eastern-and-central-zone-and-one-air-canada",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Northern",
+      "last_updated": "2021-08-24 18:42"
     }
   ]
 }

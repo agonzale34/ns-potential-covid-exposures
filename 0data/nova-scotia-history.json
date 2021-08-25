@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-25 13:45",
+  "last_updated": "2021-08-25 19:47",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7022,6 +7022,78 @@
       "advice": "Self-isolate if you have symptoms",
       "zone": "Northern",
       "last_updated": "2021-08-24 18:42"
+    },
+    {
+      "kind": "Place",
+      "name": "Chicken Shack",
+      "address": "295 Commercial Street, Glace Bay",
+      "g_maps_address": "295 Commercial St, Glace Bay, NS B1A 3C5 ",
+      "date_begin": "2021-08-25 12:15",
+      "date_end": "2021-08-25 14:00",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-and-eastern-zones-and-one-air-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Eastern",
+      "last_updated": "2021-08-25 18:54"
+    },
+    {
+      "kind": "Place",
+      "name": "The Brixton Beer Garden",
+      "address": "115 Commercial Street, Glace Bay",
+      "g_maps_address": "",
+      "date_begin": "2021-08-23 19:30",
+      "date_end": "2021-08-23 21:45",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-and-eastern-zones-and-one-air-canada-flight",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Eastern",
+      "last_updated": "2021-08-25 18:53"
+    },
+    {
+      "kind": "Place",
+      "name": "Sandbar Restaurant",
+      "address": "117 Mitchell Avenue, Dominion",
+      "g_maps_address": "117 Mitchell Ave, Dominion, NS B1G 1M7 ",
+      "date_begin": "2021-08-23 18:15",
+      "date_end": "2021-08-23 20:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-and-eastern-zones-and-one-air-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Eastern",
+      "last_updated": "2021-08-25 18:54"
+    },
+    {
+      "kind": "Place",
+      "name": "Flavour 19",
+      "address": "1225 Grand Lake Road, Sydney",
+      "g_maps_address": "1225 Grand Lake Rd, Sydney, NS B1M 1A2 ",
+      "date_begin": "2021-08-22 18:00",
+      "date_end": "2021-08-22 21:00",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-and-eastern-zones-and-one-air-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Eastern",
+      "last_updated": "2021-08-25 18:54"
+    },
+    {
+      "kind": "Place",
+      "name": "Smitty’s Family Restaurant",
+      "address": "64 Robie Street, Truro",
+      "g_maps_address": "64 Robie St, Truro, NS B2N 1K8 ",
+      "date_begin": "2021-08-22 10:45",
+      "date_end": "2021-08-22 13:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-and-eastern-zones-and-one-air-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-25 18:54"
+    },
+    {
+      "kind": "Place",
+      "name": "The Nook and Cranny Restaurant",
+      "address": "627 Prince Street, Truro",
+      "g_maps_address": "627 Prince St, Truro, NS B2N 1G5 ",
+      "date_begin": "2021-08-21 14:15",
+      "date_end": "2021-08-21 17:15",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-northern-and-eastern-zones-and-one-air-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-08-25 18:53"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-27 01:53",
+  "last_updated": "2021-08-27 07:54",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6862,10 +6862,10 @@
       "g_maps_address": "1855 Granville St, Halifax, NS B3J 3L7 ",
       "date_begin": "2021-08-19 18:30",
       "date_end": "2021-08-19 22:00",
-      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-saturday-aug-21",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-central-and-northern-zones-and-one-air-canada-flight-0",
       "advice": "Get tested immediately",
       "zone": "Central",
-      "last_updated": "2021-08-22 20:07"
+      "last_updated": "2021-08-21 18:46"
     },
     {
       "kind": "Place",

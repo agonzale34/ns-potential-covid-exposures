@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-26 19:51",
+  "last_updated": "2021-08-27 01:53",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7094,6 +7094,18 @@
       "advice": "Get tested immediately",
       "zone": "Northern",
       "last_updated": "2021-08-25 18:53"
+    },
+    {
+      "kind": "Place",
+      "name": "Steinhardt Distillery",
+      "address": "5963 NS-245, Antigonish",
+      "g_maps_address": "5963 NS-245, Antigonish, NS B2G 2L1 ",
+      "date_begin": "2021-08-24 18:30",
+      "date_end": "2021-08-24 22:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-one-location-northern-zone-and-several-flights",
+      "advice": "Self-isolate if you have symptoms",
+      "zone": "Eastern",
+      "last_updated": "2021-08-26 20:08"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-28 14:00",
+  "last_updated": "2021-08-28 20:01",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7118,6 +7118,30 @@
       "advice": "Self-isolate if you have symptoms",
       "zone": "Eastern",
       "last_updated": "2021-08-27 16:22"
+    },
+    {
+      "kind": "Place",
+      "name": "Atlantic Superstore",
+      "address": "21 Davison Dr., Bridgewater",
+      "g_maps_address": "21 Davison Dr, Bridgewater, NS B4V 2P9 ",
+      "date_begin": "2021-08-24 13:00",
+      "date_end": "2021-08-24 15:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-western-zone-and-one-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-28 18:51"
+    },
+    {
+      "kind": "Place",
+      "name": "Laundry Basket",
+      "address": "209 High Street, Bridgewater",
+      "g_maps_address": "209 High St, Bridgewater, NS B4V 1W2 ",
+      "date_begin": "2021-08-24 11:00",
+      "date_end": "2021-08-24 15:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-western-zone-and-one-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-08-28 18:53"
     }
   ]
 }

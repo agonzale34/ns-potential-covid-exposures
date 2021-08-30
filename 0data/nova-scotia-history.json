@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-29 14:04",
+  "last_updated": "2021-08-30 15:30",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7142,6 +7142,78 @@
       "advice": "Get tested immediately",
       "zone": "Western",
       "last_updated": "2021-08-28 18:53"
+    },
+    {
+      "kind": "Place",
+      "name": "Cheachie's Mexican Grill",
+      "address": "102 Chain Lake Dr., Halifax",
+      "g_maps_address": "102 Chain Lake Dr, Halifax, NS B3S 1A7 ",
+      "date_begin": "2021-08-27 16:15",
+      "date_end": "2021-08-27 17:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-1",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-29 19:58"
+    },
+    {
+      "kind": "Place",
+      "name": "Bearly's House of Blues and Ribs",
+      "address": "1269 Barrington St., Halifax",
+      "g_maps_address": "1269 Barrington St, Halifax, NS B3J 1Y2 ",
+      "date_begin": "2021-08-26 18:30",
+      "date_end": "2021-08-26 22:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-1",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-29 19:56"
+    },
+    {
+      "kind": "Place",
+      "name": "Flynn's Dairy Bar",
+      "address": "1365 Hollis St., Halifax",
+      "g_maps_address": "1365 Hollis St, Halifax, NS B3J 1T8 ",
+      "date_begin": "2021-08-25 13:15",
+      "date_end": "2021-08-25 14:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-1",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-29 19:52"
+    },
+    {
+      "kind": "Place",
+      "name": "No Frills",
+      "address": "16 Dentith Rc., Spryfield",
+      "g_maps_address": "16 Dentith Rd, Halifax, NS B3R 2H9 ",
+      "date_begin": "2021-08-25 09:30",
+      "date_end": "2021-08-25 11:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-1",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-29 19:50"
+    },
+    {
+      "kind": "Place",
+      "name": "Mic Mac Bar & Grill",
+      "address": "219 Waverley Rd., Dartmouth",
+      "g_maps_address": "Mic Mac Place, 219 Waverley Rd, Dartmouth, NS B2X 2C3 ",
+      "date_begin": "2021-08-24 15:30",
+      "date_end": "2021-08-24 19:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-1",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-29 19:54"
+    },
+    {
+      "kind": "Place",
+      "name": "Walmart",
+      "address": "6990 Mumford Rd., Halifax",
+      "g_maps_address": "6990 Mumford Rd, Halifax, NS B3L 4W4 ",
+      "date_begin": "2021-08-23 16:30",
+      "date_end": "2021-08-23 18:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-1",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-30 15:22"
     }
   ]
 }

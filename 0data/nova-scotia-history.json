@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-30 15:30",
+  "last_updated": "2021-08-30 21:32",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7214,6 +7214,54 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-08-30 15:22"
+    },
+    {
+      "kind": "Place",
+      "name": "Stubborn Goat Gastro Pub",
+      "address": "1579 Grafton St., Halifax",
+      "g_maps_address": "",
+      "date_begin": "2021-08-29 14:00",
+      "date_end": "2021-08-29 16:00",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-four-locations-central-zone-and-one-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-30 20:16"
+    },
+    {
+      "kind": "Place",
+      "name": "Edna's Restaurant",
+      "address": "2053 Gottingen St., Halifax",
+      "g_maps_address": "2053 Gottingen St, Halifax, NS B3K 3B2 ",
+      "date_begin": "2021-08-28 13:30",
+      "date_end": "2021-08-28 15:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-four-locations-central-zone-and-one-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-30 20:14"
+    },
+    {
+      "kind": "Place",
+      "name": "Stubborn Goat Beer Garden",
+      "address": "1599 Lower Water St., Halifax",
+      "g_maps_address": "1599 Lower Water St, Halifax, NS B3J 1S2 ",
+      "date_begin": "2021-08-27 20:30",
+      "date_end": "2021-08-27 22:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-four-locations-central-zone-and-one-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-30 20:12"
+    },
+    {
+      "kind": "Place",
+      "name": "Durty Nelly's Irish Pub",
+      "address": "1645 Argyle St., Halifax",
+      "g_maps_address": "1645 Argyle St, Halifax, NS B3J 2B5 ",
+      "date_begin": "2021-08-27 19:00",
+      "date_end": "2021-08-27 21:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-four-locations-central-zone-and-one-west-jet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-30 20:09"
     }
   ]
 }

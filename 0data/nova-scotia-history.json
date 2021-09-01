@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-08-31 15:35",
+  "last_updated": "2021-08-31 21:36",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7262,6 +7262,78 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-08-30 20:09"
+    },
+    {
+      "kind": "Place",
+      "name": "Sport Chek Halifax Shopping Centre",
+      "address": "7001 Mumford Rd. #1, Halifax",
+      "g_maps_address": "7001 Mumford Rd Unit #1, Halifax, NS B3L 2H8 ",
+      "date_begin": "2021-08-30 19:30",
+      "date_end": "2021-08-30 21:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-one-halifax-transit-route-and-one",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-31 19:04"
+    },
+    {
+      "kind": "Place",
+      "name": "Sport Chek Bayers Lake",
+      "address": "215 Chain Lake Dr., Unit F, Halifax",
+      "g_maps_address": "215 Chain Lake Dr, Halifax, NS B3S 1C9 ",
+      "date_begin": "2021-08-30 18:30",
+      "date_end": "2021-08-30 20:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-one-halifax-transit-route-and-one",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-31 19:08"
+    },
+    {
+      "kind": "Place",
+      "name": "Costco Halifax",
+      "address": "230 Chain Lake Drive, Halifax",
+      "g_maps_address": "230 Chain Lake Dr, Halifax, NS B3S 1C5 ",
+      "date_begin": "2021-08-30 18:00",
+      "date_end": "2021-08-30 19:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-one-halifax-transit-route-and-one",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-31 19:04"
+    },
+    {
+      "kind": "Place",
+      "name": "Marshalls Bayers Lake",
+      "address": "",
+      "g_maps_address": "",
+      "date_begin": "2021-08-29 17:00",
+      "date_end": "2021-08-29 18:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-one-halifax-transit-route-and-one",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-31 19:04"
+    },
+    {
+      "kind": "Place",
+      "name": "Sport Chek Bayers Lake",
+      "address": "215 Chain Lake Dr., Unit F, Halifax",
+      "g_maps_address": "215 Chain Lake Dr, Halifax, NS B3S 1C9 ",
+      "date_begin": "2021-08-29 16:00",
+      "date_end": "2021-08-29 17:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-one-halifax-transit-route-and-one",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-31 19:08"
+    },
+    {
+      "kind": "Place",
+      "name": "Walmart Dartmouth",
+      "address": "90 Lamont Terrace, Dartmouth",
+      "g_maps_address": "90 Lamont Terrace, Dartmouth, NS B3B 0B5 ",
+      "date_begin": "2021-08-24 19:30",
+      "date_end": "2021-08-24 21:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-one-halifax-transit-route-and-one",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-08-31 19:04"
     }
   ]
 }

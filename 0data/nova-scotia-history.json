@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-09-01 15:38",
+  "last_updated": "2021-09-01 21:39",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7334,6 +7334,30 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-08-31 19:04"
+    },
+    {
+      "kind": "Place",
+      "name": "Kai Brady’s Fancy Dive Bar",
+      "address": "5679 Spring Garden Road, Halifax",
+      "g_maps_address": "5679 Spring Garden Rd, Halifax, NS B3J 1G9 ",
+      "date_begin": "2021-08-28 23:30",
+      "date_end": "2021-08-29 02:00",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-two-locations-central-zone",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-01 18:00"
+    },
+    {
+      "kind": "Place",
+      "name": "Durty Nelly’s Irish Pub",
+      "address": "1645 Argyle Street, Halifax",
+      "g_maps_address": "",
+      "date_begin": "2021-08-28 21:00",
+      "date_end": "2021-08-29 00:30",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-two-locations-central-zone",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-01 18:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-09-02 15:41",
+  "last_updated": "2021-09-02 21:42",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7358,6 +7358,30 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-09-01 18:00"
+    },
+    {
+      "kind": "Place",
+      "name": "Boston Pizza Bridgewater",
+      "address": "485 Hwy #10, Bridgewater",
+      "g_maps_address": "485 Hwy #10, Bridgewater, NS B4V 7P4 ",
+      "date_begin": "2021-08-27 17:00",
+      "date_end": "2021-08-27 21:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-and-western-zone-and-one-westjet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Western",
+      "last_updated": "2021-09-02 19:33"
+    },
+    {
+      "kind": "Place",
+      "name": "Tom's Family Restaurant",
+      "address": "585 Sackville Dr., Lower Sackville",
+      "g_maps_address": "585 Sackville Dr, Lower Sackville, NS B4C 2S4 ",
+      "date_begin": "2021-08-26 10:30",
+      "date_end": "2021-08-26 13:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-and-western-zone-and-one-westjet-flight",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-02 19:33"
     }
   ]
 }

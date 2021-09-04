@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-09-03 15:44",
+  "last_updated": "2021-09-03 21:45",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7382,6 +7382,42 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-09-02 19:33"
+    },
+    {
+      "kind": "Place",
+      "name": "Dollarama",
+      "address": "133 Church St., Antigonish Mall, Antigonish",
+      "g_maps_address": "133 Church St, Antigonish, NS B2G 2E3 ",
+      "date_begin": "2021-09-02 19:00",
+      "date_end": "2021-09-02 20:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-locations-eastern-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Eastern",
+      "last_updated": "2021-09-03 18:23"
+    },
+    {
+      "kind": "Place",
+      "name": "Eclipse",
+      "address": "133 Church St., Antigonish Mall, Antigonish",
+      "g_maps_address": "",
+      "date_begin": "2021-09-02 18:30",
+      "date_end": "2021-09-02 20:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-locations-eastern-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Eastern",
+      "last_updated": "2021-09-03 18:20"
+    },
+    {
+      "kind": "Place",
+      "name": "Spindrift Oak Manor",
+      "address": "271 Main St., Antigonish",
+      "g_maps_address": "271 Main St, Antigonish, NS B2G 2C3 ",
+      "date_begin": "2021-08-30 14:00",
+      "date_end": "2021-08-30 16:00",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-locations-eastern-zone-and-two-flights",
+      "advice": "Get tested immediately",
+      "zone": "Eastern",
+      "last_updated": "2021-09-03 18:26"
     }
   ]
 }

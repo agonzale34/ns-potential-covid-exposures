@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-09-05 15:50",
+  "last_updated": "2021-09-05 21:52",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -6862,10 +6862,10 @@
       "g_maps_address": "1855 Granville St, Halifax, NS B3J 3L7 ",
       "date_begin": "2021-08-19 18:30",
       "date_end": "2021-08-19 22:00",
-      "details": "http://www.nshealth.ca/news/correction-exposure-notification-issued-saturday-aug-21",
+      "details": "https://www.nshealth.ca/news/potential-exposures-covid-19-locations-central-and-northern-zones-and-one-air-canada-flight-0",
       "advice": "Get tested immediately",
       "zone": "Central",
-      "last_updated": "2021-08-22 20:07"
+      "last_updated": "2021-08-21 18:46"
     },
     {
       "kind": "Place",
@@ -7478,6 +7478,42 @@
       "advice": "Get tested immediately",
       "zone": "",
       "last_updated": "2021-09-04 18:42"
+    },
+    {
+      "kind": "Place",
+      "name": "Celtic Corner",
+      "address": "69 Alderney Dr., Dartmouth",
+      "g_maps_address": "",
+      "date_begin": "2021-08-31 12:30",
+      "date_end": "2021-08-31 14:00",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-2",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-05 18:15"
+    },
+    {
+      "kind": "Place",
+      "name": "Guy's Frenchys",
+      "address": "12 Murdock MacKay Crt., Lower Sackville",
+      "g_maps_address": "12 Murdock MacKay Ct, Lower Sackville, NS B4C 3J4 ",
+      "date_begin": "2021-08-30 12:30",
+      "date_end": "2021-08-30 15:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-2",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-05 18:11"
+    },
+    {
+      "kind": "Place",
+      "name": "Mission Thrift Store",
+      "address": "31 Temple Terrace, Lower Sackville",
+      "g_maps_address": "",
+      "date_begin": "2021-08-30 12:30",
+      "date_end": "2021-08-30 15:30",
+      "details": "http://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-zone-and-two-air-canada-flights-2",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-05 18:13"
     }
   ]
 }

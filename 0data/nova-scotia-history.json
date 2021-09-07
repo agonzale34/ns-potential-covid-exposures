@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-09-06 15:54",
+  "last_updated": "2021-09-06 21:55",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7514,6 +7514,42 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-09-05 18:13"
+    },
+    {
+      "kind": "Place",
+      "name": "NSLC Sydney",
+      "address": "125 King St., North Sydney",
+      "g_maps_address": "125 King St, North Sydney, NS B2A 3S5 ",
+      "date_begin": "2021-09-04 14:00",
+      "date_end": "2021-09-04 16:00",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-and-eastern-zones-and-one-air-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Eastern",
+      "last_updated": "2021-09-06 17:45"
+    },
+    {
+      "kind": "Place",
+      "name": "Fit4Less Dartmouth",
+      "address": "650 Portland St, Dartmouth - Only the weight area",
+      "g_maps_address": "",
+      "date_begin": "2021-08-30 17:00",
+      "date_end": "2021-08-30 18:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-and-eastern-zones-and-one-air-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-06 17:47"
+    },
+    {
+      "kind": "Place",
+      "name": "Fit4Less Dartmouth",
+      "address": "650 Portland St, Dartmouth - excluding weight area",
+      "g_maps_address": "",
+      "date_begin": "2021-08-30 17:00",
+      "date_end": "2021-08-30 18:30",
+      "details": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-central-and-eastern-zones-and-one-air-canada-flight",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-06 17:43"
     }
   ]
 }

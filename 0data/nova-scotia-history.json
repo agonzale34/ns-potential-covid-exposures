@@ -1,7 +1,7 @@
 {
   "province": "Nova Scotia",
   "timezone": "America/Halifax",
-  "last_updated": "2021-09-07 15:58",
+  "last_updated": "2021-09-07 22:01",
   "exposures": [
     {
       "kind": "Halifax Transit",
@@ -7550,6 +7550,90 @@
       "advice": "Get tested immediately",
       "zone": "Central",
       "last_updated": "2021-09-06 17:43"
+    },
+    {
+      "kind": "Place",
+      "name": "Pharmasave",
+      "address": "158 Robert Angus Dr., Amherst",
+      "g_maps_address": "158 Robert Angus Dr, Amherst, NS B4H 4R7 ",
+      "date_begin": "2021-09-04 08:30",
+      "date_end": "2021-09-04 10:00",
+      "details": "",
+      "advice": "Get tested immediately",
+      "zone": "Northern",
+      "last_updated": "2021-09-07 18:15"
+    },
+    {
+      "kind": "Place",
+      "name": "Shiraz Restaurant",
+      "address": "1240 Hollis St., Halifax",
+      "g_maps_address": "1240 Hollis St, Halifax, NS B3J 1B3 ",
+      "date_begin": "2021-09-03 17:00",
+      "date_end": "2021-09-03 18:30",
+      "details": "",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-07 18:26"
+    },
+    {
+      "kind": "Place",
+      "name": "Costco Dartmouth",
+      "address": "137 Countryview Drive, Dartmouth",
+      "g_maps_address": "137 Countryview Dr, Dartmouth, NS B3B 0E7 ",
+      "date_begin": "2021-09-03 16:30",
+      "date_end": "2021-09-03 19:00",
+      "details": "",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-07 18:23"
+    },
+    {
+      "kind": "Place",
+      "name": "The Captain's Boil",
+      "address": "5680 Spring Garden Rd., Halifax",
+      "g_maps_address": "5680 Spring Garden Rd, Halifax, NS B3J 1H5 ",
+      "date_begin": "2021-09-03 16:00",
+      "date_end": "2021-09-03 19:00",
+      "details": "",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-07 18:27"
+    },
+    {
+      "kind": "Place",
+      "name": "Crave Burger",
+      "address": "5680 Spring Garden Rd., Halifax",
+      "g_maps_address": "5680 Spring Garden Rd, Halifax, NS B3J 1H5 ",
+      "date_begin": "2021-09-02 20:30",
+      "date_end": "2021-09-02 22:00",
+      "details": "",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-07 18:24"
+    },
+    {
+      "kind": "Place",
+      "name": "Walmart Dartmouth",
+      "address": "90 Lamont Terrace, Dartmouth",
+      "g_maps_address": "90 Lamont Terrace, Dartmouth, NS B3B 0B5 ",
+      "date_begin": "2021-09-02 10:30",
+      "date_end": "2021-09-02 12:30",
+      "details": "",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-07 18:21"
+    },
+    {
+      "kind": "Place",
+      "name": "Marshalls",
+      "address": "75 Countryview Dr., Dartmouth",
+      "g_maps_address": "75 Countryview Dr, Dartmouth, NS B3B 0G4 ",
+      "date_begin": "2021-09-02 09:00",
+      "date_end": "2021-09-02 10:30",
+      "details": "",
+      "advice": "Get tested immediately",
+      "zone": "Central",
+      "last_updated": "2021-09-07 18:19"
     }
   ]
 }
